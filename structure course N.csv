@@ -1,0 +1,93 @@
+"m_ord";"l_ord";"i_ord";"i_name";"Original.(2016-07-25)";"Version.2.(2018-09-06)"
+0;0;0;"About the Course";1;1
+0;0;1;"Pre-Course Survey";1;0
+0;0;1;"Pre-survey on HSE online courses";0;1
+0;0;2;"Grading and Logistics";1;1
+0;0;3;"Suggested Readings";1;1
+0;0;4;"Course Plan";1;1
+0;0;5;"About the Instructor";1;1
+1;0;0;"Neuroeconomics as a Multidisciplinary Field";1;1
+1;0;1;"Origin of Neuroeconomics";1;1
+1;0;2;"Neuroeconomics & Decision-making Theory";1;1
+1;1;0;"The Scope of Neuroeconomics";1;1
+1;1;1;"Some Philosophical Implications of Neuroeconomics";1;1
+1;2;0;"Doctor Danil Razeev - ""Can Neuroscience measure Free Will?"" [Expert Opinion]";0;1
+1;2;0;"Introduction and Scope of Neuroeconomics";1;0
+1;2;1;"Readings and Resources";1;0
+1;3;0;"Readings and Resources";0;1
+1;3;1;"Introduction and Scope of Neuroeconomics";0;1
+1;4;0;"Do people have Free Will...?";0;1
+2;0;0;"A Brief Intro to Neuroanatomy and Neurophysiology";1;1
+2;0;1;"Methods of Cognitive Neuroscience. Lesions, Brain Stimulation";1;1
+2;1;0;"Single-cell Recordings, EEG & MEG";1;1
+2;1;1;"Functional Magnetic Resonance Imaging (fMRI)";1;1
+2;2;0;"Neuroanatomy and Neurophysiology";1;1
+2;2;1;"Readings and Resources";1;1
+2;3;0;"Survey";0;1
+3;0;0;"Perceptual Decisions";1;1
+3;0;1;"Introduction to Diffusion Model";1;1
+3;0;2;"Diffusion Model vs. Race Model";1;1
+3;1;0;"Perceptual Decision Making in the Human Brain";1;1
+3;1;1;"Collective Decisions of Honey Bees & Diffusion Mechanism";1;1
+3;1;2;"Guest Lecture 1: Dr. Sebastian Horn – Some Notes on Drift Diffusion Model [Expert Opinion]";1;0
+3;1;3;"Guest Lecture 1: Dr. Sebastian Horn – Some Notes on Drift Diffusion Model. Part II";1;0
+3;2;0;"Decision-Making";1;0
+3;2;0;"Doctor Sebastian Horn – ""Some Notes on Drift Diffusion Model"" [Expert Opinion]";0;1
+3;2;1;"Doctor Sebastian Horn – ""Some Notes on Drift Diffusion Model. Part II"" [Expert Opinion]";0;1
+3;2;1;"Readings and Resources";1;0
+3;3;0;"Decision-Making";0;1
+3;3;1;"Readings and Resources";0;1
+3;4;0;"Critical review: Diffusion model";0;1
+4;0;0;"Value, Utility, and Brain";1;1
+4;0;1;"The Nucleus Accumbens - The Core Valuation Region";1;1
+4;1;0;"The Nucleus Accumbens & Expected Value";1;1
+4;1;1;"The Nucleus Accumbens: Shopping, Marketing, and Learning";1;1
+4;2;0;"The Orbitofrontal Cortex & Decision Values";1;1
+4;2;1;"The Diffusion Model & Valuation Process";1;1
+4;3;0;"Doctor Hilke Plassmann - ""The role of Ventromedial and Dorsolateral prefrontal cortices in decision-making"" [Expert Opinion]";0;1
+4;3;0;"The Nucleus Accumbens";1;0
+4;3;1;"Doctor Hilke Plassmann - ""Neuromarketing"" [Expert Opinion]";0;1
+4;3;1;"Readings and Resources";1;0
+4;3;2;"Doctor Hilke Plassmann - ""Ethical problems in Neuromarketing"" [Expert Opinion]";0;1
+4;4;0;"The Nucleus Accumbens";0;1
+4;4;1;"Readings and Resources";0;1
+5;0;0;"Innate Reactions to Emotional Stimuli";1;1
+5;0;1;"Emotions as Heuristics";1;1
+5;1;0;"Amygdala – an Emotional Computer";1;1
+5;1;1;"Emotions, Consciousness, and Optimal Decisions";1;1
+5;2;0;"Emotional Stimuli";1;1
+5;2;1;"Readings and Resources";1;1
+5;3;0;"Paper for the homework test: The dark side of emotion in decision-making";0;1
+5;3;1;"Homework test: The dark side of emotion in decision-making";0;1
+6;0;0;"Valuation System at a Glance";1;1
+6;0;1;"Dual Process Theory & Neuroeconomics";1;1
+6;1;0;"Modulation of the Value Signal by the DLPFC";1;1
+6;1;1;"Self-regulation & DLPFC";1;1
+6;2;0;"Samuel McClure – ""Dual or Single?"" [Expert Opinion]";1;1
+6;3;0;"Valuation System";1;1
+6;3;1;"Readings and Resources";1;1
+7;0;0;"Risk as Uncertainty of the Outcome";1;1
+7;0;1;"Anticipatory Affect Model";1;1
+7;1;0;"Neuroeconomics of Risk Aversion";1;1
+7;1;1;"""Decision Weights"", Framing Effect, and Prospect Theory";1;1
+7;2;0;"Brian Knutson – ""The Nucleus Accumbens: Rewards and Risks..."" [Expert Opinion]";1;1
+7;3;0;"Risk";1;1
+7;3;1;"Readings and Resources";1;1
+7;4;0;"Video - Matthew Liao investigates the ethics of neuroscience";0;1
+7;4;1;"Ethical limitations in Neuroeconomics";0;1
+8;0;0;"Game Theory as a Tool to Study Decisions in Groups";1;1
+8;0;1;"The Prisoner's Dilemma as a Model of Cooperation";1;1
+8;1;0;"A Neural Basis for Social Cooperation";1;1
+8;1;1;"Mirror Neurons: Understanding Goals via a Simulation";1;1
+8;2;0;"Game Theory";1;0
+8;2;0;"Neuroeconomics, Game Theory and decision-making in groups";0;1
+8;2;1;"Readings and Resources";1;1
+9;0;0;"Ontogenetic and Evolutionary Origin of Cooperation";1;1
+9;1;0;"Biological Market Theory";1;1
+9;2;0;"Trading with Capuchins";1;1
+9;2;1;"Do Capuchin Monkeys Reject Unequal Pay? The End!";1;1
+9;3;0;"Cooperation";1;1
+9;3;1;"Readings and Resources";1;1
+9;4;0;"Essay. Biological mechanisms of decisions: The role of testosterone in decision-making";0;1
+10;0;0;"Final Exam";1;1
+10;0;1;"Post-Course Survey";1;0
